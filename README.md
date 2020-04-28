@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/watch?v=LOeioOKUKI8"><button>Click Here</button></a>
 </p>
 
-<h3>Screeshots</h3>
+<h3>Screenshots</h3>
 <img height="300px" src="https://github.com/ranjith-1010/vchat/blob/master/screenshots/login.JPG">
 <br>
 <img height="300px" src="https://github.com/ranjith-1010/vchat/blob/master/screenshots/friends.JPG">
