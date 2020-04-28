@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>We Chat</title>
+	<script defer src="https://www.gstatic.com/firebasejs/7.11.0/firebase-app.js"></script>
+<script defer src="https://www.gstatic.com/firebasejs/7.11.0/firebase-auth.js"></script>
+<script defer src="https://www.gstatic.com/firebasejs/7.11.0/firebase-firestore.js"></script>
+</head>
+
+<body>
+<form action="/chat" method="post">
+	<input name="from" placeholer="from.."/><br>
+	<input name="to" placeholer="to.."/><br>
+	<input name="msg" placeholer="Message goes here"/><br>
+	<input type="submit"/>
+</form>
+<%= chat %>
+	<%- chat %>
+</body>
+</html>
