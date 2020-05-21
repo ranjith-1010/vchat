@@ -5,9 +5,7 @@
 
 <h3>How to run?</h3>
 <ul>
-  <li>Install necessary packages in node js as in package.json (dependencies)</li>
-  <li>Create a express project</li>
-  <li>Replace the <strong>routes, views folder and app.js</strong></li>
+  <li>npm install</li>
   <li>Create firebase project and paste its configuration in <strong>routes/index.js</strong> line 14</li>
   <li>Initialize the firebase Authentication (email)</li>
 </ul>
